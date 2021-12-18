@@ -309,7 +309,7 @@ svg {
   overflow: hidden;
   display: -webkit-box;
   display: -ms-flexbox;
-  width: 54%;
+  width: 18.55%;
   display: flex;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
@@ -329,7 +329,7 @@ a.nav-item.nav-link {
   transition: 0.3s;
   font-size: 13px;
   background-color: #001517;
-  color: white;
+  color: red;
   text-transform: uppercase;
   display: flex;
   -webkit-box-pack: justify;
