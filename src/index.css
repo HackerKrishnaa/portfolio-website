@@ -221,7 +221,7 @@ header {
 .topBackground {
   width: 100%;
   height: 300px;
-  background-color: #001517;
+  background-color: white;
 }
 svg {
   position: relative;
@@ -243,18 +243,18 @@ svg {
 /* SCREEN */
 .screenWords {
   width: 100%;
-  padding-top: 20%;
+  padding-top: 12%;
 }
 .screenWords h1 {
   font-size: 40px;
   font-weight: bold;
   margin-bottom: 2%;
-  color: white;
+  color: rgb(22, 22, 22);
 }
 .screenWords p {
   padding-right: 25%;
   font-size: 18px;
-  color: rgb(179, 179, 179);
+  color: rgb(22, 22, 22);
   margin-top: 7%;
 }
 .twoMainButton {
@@ -275,11 +275,11 @@ svg {
   font-weight: 300;
 }
 .screenImage {
-  width: 100%;
+  width: 90%;
 }
 .screenImage img {
   width: 100%;
-  height: 500px;
+  height: 400px;
   -o-object-fit: contain;
   object-fit: contain;
 }
@@ -494,7 +494,7 @@ a.nav-item.nav-link.active {
   width: 100%;
   padding-top: 10%;
   padding-bottom: 10%;
-  background-color: rgba(0, 0, 0, 0.921);
+  background-color: rgba(247, 242, 242, 0.921);
 }
 .form {
   width: 100%;
@@ -1019,7 +1019,7 @@ footer {
   width: 100%;
   padding-top: 5%;
   padding-bottom: 5%;
-  background-color: #001517;
+  background-color: white;
 }
 .footerContainer {
   width: 100%;
@@ -1075,7 +1075,7 @@ footer {
 }
 .footerNav p a {
   font-size: 12px;
-  color: rgb(255, 255, 255);
+  color: rgb(22, 22, 22);
   text-transform: uppercase;
   font-weight: bold;
 }
@@ -1086,7 +1086,7 @@ footer {
 .footerMedia {
   width: 40px;
   height: 40px;
-  background-color: blanchedalmond;
+  background-color: rgb(22, 22, 22);
   border-radius: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1099,7 +1099,7 @@ footer {
   align-items: center;
 }
 .footerMedia a {
-  color: rgb(22, 22, 22);
+  color: white;
 }
 .footerContainer span {
   color: rgb(255, 255, 255);

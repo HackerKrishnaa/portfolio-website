@@ -9,7 +9,7 @@ function About() {
               <div className="row">
                 <div className="col-md-6">
                   <div className="aboutMeImg">
-                    <img src="/images/about2-removebg-preview.png" alt="about me" />
+                    <img src="/images/about-final.png" alt="about me" />
                   </div>
                 </div>
                 <div className="col-md-6">
